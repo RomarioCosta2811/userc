@@ -1,0 +1,16 @@
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+R: Em on-premise, pois as infraestruturas tem a possibilidade de serem mantidas de modo independente.
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa
+solução, responda qual ferramenta acreditas ser apropriada para o controle de
+tarefas da equipe, a ferramenta é ágil?
+R: Ferramenta Trello, sim é ágil.
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+R: Liderar não, mas fazer parte dela ajudando-a no crescimento significativo do potencial da equipe sim.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+R: No momento não me vem à cabeça alguma melhoria, mudança ou oportunidade, mas que a empresa cada vez mais deve proporcionar amadurecer em todos os sentidos tanto pra ela quanto pra quem quer crescer com ela em busca de trabalho, crescer profissionalmente. 
+
+5. Acha válido esse desafio para o processo que está participando?
+R: Sim, porém acho que devia ter mais tempo pra que cada um que está fazendo o testo, ter a possibilidade de fazer algo mais responsivo e mais bem trabalhado, do que seria diferente dentro da empresa, não se tratando de teste.
